@@ -1,0 +1,10 @@
+
+
+public class l1 {
+	
+	public static void main(String[] args) {
+		Number n = new Number(831,13);
+		System.out.println("831 w systemie 13 = " + n.convertTo());
+	}
+
+}
